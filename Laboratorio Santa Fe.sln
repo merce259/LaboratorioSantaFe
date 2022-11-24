@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio Santa Fe", "Laboratorio Santa Fe\Laboratorio Santa Fe.csproj", "{1FB8D442-A210-4F8F-9E4D-C5EDCE19426E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB8D442-A210-4F8F-9E4D-C5EDCE19426E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB8D442-A210-4F8F-9E4D-C5EDCE19426E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB8D442-A210-4F8F-9E4D-C5EDCE19426E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1FB8D442-A210-4F8F-9E4D-C5EDCE19426E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB8D442-A210-4F8F-9E4D-C5EDCE19426E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB8D442-A210-4F8F-9E4D-C5EDCE19426E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE586C75-AE8C-45A1-8EA0-836B7F821CBA}
+	EndGlobalSection
+EndGlobal
